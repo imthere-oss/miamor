@@ -19,7 +19,7 @@
         if ($('.hero-slider').length) {
             var swiper = new Swiper('.hero-slider', {
                 autoplay: {
-                    delay: 2000,
+                    delay: 15000,
                     disableOnInteraction: true,
                 },
                 speed: 350,
